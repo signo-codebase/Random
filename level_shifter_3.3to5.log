@@ -1,0 +1,21 @@
+Circuit: * C:\Sync\Repositories\Generico\level_shifter_3.3to5.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Jun 18 14:22:22 2024
+Total elapsed time: 0.328 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3081
+traniter = 3074
+tranpoints = 1392
+accept = 1318
+rejected = 74
+matrix size = 10
+fillins = 0
+solver = Normal
+Matrix Compiler1: 354 bytes object code size  0.3/0.2/[0.2]
+Matrix Compiler2: off  [0.2]/0.4/0.4
+
